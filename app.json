@@ -1,0 +1,38 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#262626",
+    "navigationBarTitleText": "南海风筝小程序作品",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "backgroundColor": "#FECA49",
+    "selectedColor": "#fff",
+    "list": [
+      {
+        "text": "首页",
+        "iconPath": "icons/home-default.png",
+        "selectedIconPath": "icons/home-active.png",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "卡券",
+        "iconPath": "icons/ticket-default.png",
+        "selectedIconPath": "icons/home-active.png",
+        "pagePath": "pages/index/index"
+      },
+      {
+        "text": "我的",
+        "iconPath": "icons/face-default.png",
+        "selectedIconPath": "icons/face-active.png",
+        "pagePath": "pages/index/index"
+      }
+    ]
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json"
+}

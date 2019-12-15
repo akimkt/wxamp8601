@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'iconfont';  /* project id 1564487 */
+  src: url('//at.alicdn.com/t/font_1564487_xki1oxbpre8.eot');
+  src: url('//at.alicdn.com/t/font_1564487_xki1oxbpre8.eot?#iefix') format('embedded-opentype'),
+  url('//at.alicdn.com/t/font_1564487_xki1oxbpre8.woff2') format('woff2'),
+  url('//at.alicdn.com/t/font_1564487_xki1oxbpre8.woff') format('woff'),
+  url('//at.alicdn.com/t/font_1564487_xki1oxbpre8.ttf') format('truetype'),
+  url('//at.alicdn.com/t/font_1564487_xki1oxbpre8.svg#iconfont') format('svg');
+}
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-kalendar:before {
+  content: "\e616";
+}
+
+.icon-shoucang:before {
+  content: "\e659";
+}
+
+.icon-flag:before {
+  content: "\e73c";
+}
+
+.icon-shixinyuanxing:before {
+  content: "\e607";
+}
+
+.icon-7:before {
+  content: "\e614";
+}
+
+.icon-clock:before {
+  content: "\e74b";
+}
+
+.icon-map:before {
+  content: "\e758";
+}
+
+.icon-service:before {
+  content: "\e764";
+}
+

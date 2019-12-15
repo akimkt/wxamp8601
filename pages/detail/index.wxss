@@ -1,0 +1,97 @@
+/* pages/detail/index.wxss */
+page{
+    background-color: #F0F0F0;
+}
+.item image{
+    width: 100%;
+    height: 400rpx;
+}
+.item{
+    margin-bottom: 20rpx;
+    position: relative;
+    z-index: 0;
+  }
+  .item .info {
+    box-sizing:border-box;
+    height: 180rpx;
+    padding: 16rpx 30rpx;
+    position: relative;
+    background-color: #fff;
+  }
+  .item .info .title{
+    width: 100%;
+    font-size: 30rpx;
+    line-height: 42rpx;
+  }
+  .item .info .status {
+    position: absolute;
+    right:30rpx;
+    bottom:16rpx;
+    font-size: 30rpx;
+    color: #FE6249;
+  
+  }
+  .item .info .small{
+    position: absolute;
+    bottom:20rpx;
+  }
+  .item .info .small text{
+    padding-right: 30rpx;
+    font-size: 22rpx;
+    color: #B4B4B4;
+  }
+  .box{
+    background-color: #fff;
+    margin-bottom: 20rpx;
+    padding-left: 30rpx;
+  }
+  .info1{
+      font-size: 24rpx;
+  }
+  .info1 .li{
+    padding: 34rpx 0 34rpx 0;
+    border-bottom: 1px solid #eee;
+    vertical-align: middle;
+  }
+  .info2 .title{
+    font-size: 24rpx;
+    padding: 40rpx 0 30rpx 0;
+    border-bottom: 1px solid #eee;
+  }
+  .info2 .content{
+    font-size: 24rpx;
+    padding-right: 30rpx;
+    padding-bottom: 40rpx;
+  }
+  .info2 .content .parag{
+    padding: 21rpx 0 15rpx 0;
+  }
+  .info2 .content .text{
+    color: #A0A0A0;
+    line-height: 2;
+  }
+  .info2 .content image{
+    width: 690rpx;
+    height: 498rpx;
+    padding: 20rpx 0;
+  }
+  .info2 .content .text2{
+    padding: 21rpx 0 15rpx 0;
+    color: #A0A0A0;
+  }
+  .info2 .content .callser{
+    height: 76rpx;
+    border: 1px solid #eee;
+    text-align: center;
+    line-height: 76rpx;
+    vertical-align: middle;
+  }
+.footer{
+  height: 100rpx;
+  background-color: #FECB49;
+  font-size: 40rpx;
+  color: #fff;
+  text-align: center;
+  line-height: 100rpx;
+  margin-top: 60rpx;
+}
