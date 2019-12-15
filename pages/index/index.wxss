@@ -70,7 +70,7 @@ image{
   text-align: center;
 }
 .item .on{
-  background: url("https://akimkt.github.io/wxamp8601/images/status_active.png");
+  background: url("https://akimkt.github.io/wxamp8601/static/images/status_active.png");
   background-size: 136rpx 58rpx;
   }
 .item .end{

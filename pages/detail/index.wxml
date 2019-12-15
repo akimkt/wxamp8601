@@ -1,6 +1,6 @@
 <!--pages/detail/index.wxml-->
 <view class="item">
-    <image src="https://akimkt.github.io/wxamp8601/uploads/item_1.png" />
+    <image src="https://akimkt.github.io/wxamp8601/static/uploads/item_1.png" />
   <view class="info">
     <view class="title">趣味识地图- 欢乐游戏中认识世界地图，亲子互动不可错过</view>
     <view class="status">免费</view>
@@ -34,7 +34,7 @@
       绿野网成立于1998年底，是中国第一家，也是目前最大的一家户外旅行活动网站，在广大户外运动爱好者中拥有强大的影响力。
 2013年9月，绿野网经过15年的历史积累和近几年的商业化运营，被上市公司探路者(300005)战略投资。融资之后的绿野进入了一个高速发展的阶段，致力于建设和运营面向全球的户外运动和深度体验式旅行综合服务平台，成为国内领先、国际一流的的一站式户外旅行综合服务提供商。
     </view>
-    <image src="https://akimkt.github.io/wxamp8601/uploads/content_1.png" />
+    <image src="https://akimkt.github.io/wxamp8601/static/uploads/content_1.png" />
     <view class="parag">01.活动介绍</view>
     <view class="text">
       绿野网成立于1998年底，是中国第一家，也是目前最大的一家户外旅行活动网站，在广大户外运动爱好者中拥有强大的影响力。
